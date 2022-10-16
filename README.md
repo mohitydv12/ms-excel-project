@@ -1,5 +1,4 @@
 # ms-excel-first project
-following are the tasks of my project:-
 The following project tasks are required to be performed in Excel:
 
 Use the saved Sample E-Commerce database
