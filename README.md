@@ -1,5 +1,5 @@
 # ms-excel-first project
-The following project tasks are required to be performed in Excel:
+The following project tasks:-
 
 Use the saved Sample E-Commerce database
 Prepare a table of Sales and Profit month-wise in a working sheet
